@@ -3,3 +3,4 @@ PyPDF2
 python-dotenv
 streamlit
 steamlit-option-menu
+python-dotenv==0.21.0
