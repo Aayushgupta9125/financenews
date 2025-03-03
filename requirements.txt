@@ -2,5 +2,5 @@ google.generativeai
 PyPDF2
 python-dotenv
 streamlit
-steamlit-option-menu
+streamlit-option-menu
 python-dotenv==0.21.0
